@@ -1,0 +1,11 @@
+.btn {
+  border: none;
+  border-radius: 0.6rem;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.btn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
